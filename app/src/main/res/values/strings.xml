@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ad Skip Remote</string>
+    <string name="accessibility_service_description">
+        Allows your Galaxy Watch to remotely click the Skip Ad button in YouTube. 
+        This service only clicks when you send the command from your watch and does not block ads.
+    </string>
+</resources>
